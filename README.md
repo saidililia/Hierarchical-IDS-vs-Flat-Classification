@@ -69,18 +69,6 @@ Triggered only if Stage 1 predicts **Attack**
 | Flat         | 0.87     | 0.60     | 0.87       | 0.58         |
 | Hierarchical | 0.85     | 0.71     | 0.90       | 0.76         |
 
-## Installation & Usage
-1. Clone the repository:
-   ```sh
-   git clone https://github.com/saidililia/Swarm-Optimization.git
-   ```
-2. Install dependencies:
-   ```sh
-   pip install -r requirements.txt
-   ```
-3. Run the main script:
-   ```sh
-   python main.py
    ```
 
 ## Future Enhancements
