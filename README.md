@@ -59,7 +59,6 @@ Triggered only if Stage 1 predicts **Attack**
 - **xgboot**
 - **imblearn**
 - **Pandas & NumPy**
-- **Matplotlib & Seaborn** (for visualization)
 - **Optuna** (for advanced optimization)
 
 ## Results & Insights
