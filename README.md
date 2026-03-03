@@ -69,11 +69,13 @@ Triggered only if Stage 1 predicts **Attack**
 | Flat         | 0.87     | 0.60     | 0.87       | 0.58         |
 | Hierarchical | 0.85     | 0.71     | 0.90       | 0.76         |
 
-   ```
 
+
+---
 ## Future Enhancements
 - Implement deep learning models (e.g., LSTMs, CNNs) for better performance.
 - Experiment with additional feature selection techniques.
 
 ## Contact
 For any inquiries, feel free to reach out via Email: saidililia555@gmail.com or visit my GitHub profile
+
