@@ -62,7 +62,12 @@ Triggered only if Stage 1 predicts **Attack**
 - **Optuna** (for advanced optimization)
 
 ## Results & Insights
-Through this project, I gained hands-on experience in **Machine Learning**, **feature engineering**, and **hyperparameter tuning**. The use of **PSO** provided an insightful comparison to traditional methods, demonstrating the potential of metaheuristic approaches in ML.
+### Performance Comparison
+
+| Model         | Accuracy | Macro F1 | Weighted F1 | Attack Recall |
+|--------------|----------|----------|------------|--------------|
+| Flat         | 0.87     | 0.60     | 0.87       | 0.58         |
+| Hierarchical | 0.85     | 0.71     | 0.90       | 0.76         |
 
 ## Installation & Usage
 1. Clone the repository:
